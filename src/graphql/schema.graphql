@@ -2506,6 +2506,7 @@ type UpdateType {
   slug: String
   image: String
   isPrivate: Boolean
+  contentStripped: Boolean
   title: String
   createdAt: String
   updatedAt: String
