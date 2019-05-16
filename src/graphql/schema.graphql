@@ -2473,6 +2473,7 @@ input UpdateAttributesInputType {
   slug: String
   title: String
   image: String
+  isPrivate: Boolean
   markdown: String
   html: String
   fromCollective: CollectiveAttributesInputType
